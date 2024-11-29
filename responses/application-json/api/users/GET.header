@@ -1,0 +1,4 @@
+status: 200
+headers:
+  X-Total-Count: "2"
+  Cache-Control: no-cache
