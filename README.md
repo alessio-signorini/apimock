@@ -64,3 +64,7 @@ headers:
 - Custom headers and status codes via YAML files
 - CORS support
 - Returns 404 for missing responses
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
