@@ -1,4 +1,4 @@
-# APImock
+# 💾 APImock
 
 A lightweight Sinatra-based mock API server that serves static responses based on request path, method, and content-type. Very useful for prototyping APIs and frontend applications.
 
